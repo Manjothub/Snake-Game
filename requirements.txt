@@ -1,0 +1,2 @@
+random2==1.0.1
+turtles==1.0.0
